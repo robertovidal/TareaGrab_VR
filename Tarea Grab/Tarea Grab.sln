@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Utilities", "DevionGames.Utilities.csproj", "{b7860b84-a660-e810-530f-61106e32aa18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.UIWidgets", "DevionGames.UIWidgets.csproj", "{fd3f89da-6adc-3153-6172-a69d9114600a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Scripts", "Boxophobic.Utils.Scripts.csproj", "{6a3fb56b-09e4-1a9f-601d-c17463b75a42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a28f8904-878e-df0d-5e1c-d24512506f9d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Editor", "Boxophobic.Utils.Editor.csproj", "{21f82a50-0ac6-494c-b21f-8fcda1920435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{4247eb03-0999-834a-a7f7-c31833ea58a7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.SkyboxCubemapExtended.Editor", "Boxophobic.SkyboxCubemapExtended.Editor.csproj", "{e6fb6a5a-32aa-b086-9a1b-d79a1fbf2e6a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b7860b84-a660-e810-530f-61106e32aa18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7860b84-a660-e810-530f-61106e32aa18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fd3f89da-6adc-3153-6172-a69d9114600a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fd3f89da-6adc-3153-6172-a69d9114600a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6a3fb56b-09e4-1a9f-601d-c17463b75a42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6a3fb56b-09e4-1a9f-601d-c17463b75a42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a28f8904-878e-df0d-5e1c-d24512506f9d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a28f8904-878e-df0d-5e1c-d24512506f9d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21f82a50-0ac6-494c-b21f-8fcda1920435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21f82a50-0ac6-494c-b21f-8fcda1920435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4247eb03-0999-834a-a7f7-c31833ea58a7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4247eb03-0999-834a-a7f7-c31833ea58a7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6fb6a5a-32aa-b086-9a1b-d79a1fbf2e6a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6fb6a5a-32aa-b086-9a1b-d79a1fbf2e6a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
